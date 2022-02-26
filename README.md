@@ -14,7 +14,9 @@ https://www.python.org/downloads/windows/
     • Open command prompt and run following commands:
 a) python -m venv NAME_OF_ENVIRONMENT
 b) cd NAME_OF_ENVIRONMENT
-c) script\activate
+c) script\activate 
+or 
+d)complete path/NAME_OF_ENVIRONMENT/Scripts/actiate.bat
 
 3. Install requirment.txt:
     • Run the following command immediately after activating the virtual environment.
